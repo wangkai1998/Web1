@@ -1,0 +1,19 @@
+body{
+	font-size: 12px;
+	color: gray;
+	font-family:'Arial';
+	line-height: 2em;
+}
+a:link{
+	text-decoration: none;
+	color:#727272;
+
+}
+a:hover{text-decoration: underline;}
+#shouye{font-size:14px;
+		color:#b9f605;
+		font-weight: bold;}
+.shouye2{color: white;}
+.shouye2:hover{color:#b9f605; text-decoration: none; font-size: 1em}
+#shouye1{color:#fdb306;}
+#shouye1:hover{color:#b9f605; text-decoration: none;}
