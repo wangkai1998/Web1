@@ -1,0 +1,6 @@
+*{margin: 3px;padding: 0px;width: 2000px;height: 400px;}
+	.one{float: left;width:470px; height: 220px;background-color: gray;}
+	.two{float: left;width:200px;height: 200px;margin: 10px;}
+	.three{float: none;width: 200px;height: 70px;background-color: purple;margin: 20px;}
+	.four{background-color: purple;height: 50px;margin: 1px;width: 180px;margin: 20px;}
+	.five{float: left;width:220px; height: 220px;background-color: gray;}
