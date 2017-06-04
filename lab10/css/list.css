@@ -1,0 +1,251 @@
+*{
+	margin:0px auto;
+	padding: 0px;
+	border:0px;
+	font-family: '宋体';
+	list-style-type: none;
+	color: #522a06;
+}
+body{
+	font-size: 12px;
+	background-image: url(../images/bodybg.gif);
+	background-repeat: repeat-x;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+#header{
+	height: 205px;
+	background-image: url(../images/bg.gif);
+	background-position: center top;
+	background-repeat: no-repeat;
+	margin: 0px auto;
+}
+#banner{
+	height: 135px;
+	padding-top: 38px;
+	padding-left: 25px;
+	margin: auto 250px;
+	}
+#nav{
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+	margin: 0px;
+	padding: 0px;
+	}
+.nave_body{
+	width: 1000px;
+	margin: auto 25px;
+	}
+.nav_content{
+		width: 800px;
+		margin-left: 200px;
+		border:1px solid red;
+	}
+.nav_content a{
+		line-height: 40px;
+		font-weight: bold;
+		color: #fff;
+	}
+.nav_content a:hover{
+		color: #f9f603;
+		text-decoration: none;
+	}
+.nav_content ul li {
+		float: left;
+		color: white;
+		height:25px;
+		line-height: 25px;
+		font-weight: bold;
+		margin-left: 0px;
+	}
+#shouye{
+		color:#f9f603;
+		display: block;
+		height: 25px;
+		margin-left: 40px;
+		border-left: 0px;
+	}
+#form1{
+	width: 140px;
+	height: 21px;
+	background-color: #f8f5ee;
+	float: left;
+	margin:10px 0px 0px 100px;
+	}
+#form2{
+	width: 44px;
+	height: 21px;
+	background-color: #000;
+	border:1px solid #f8f5ee;
+	float:left;
+	margin:9px 0px 0px 0px;
+	color: #fff;
+}
+#dang{
+	width: 1000px;
+	height: 20px;
+	margin:10px auto;
+}
+#zhu{
+	width: 1000px;
+	margin: 0px auto;
+}
+#content_left{
+	width: 200px;
+	float: left;
+}
+#content_left_top{
+	background-image: url(../images/bg.png);
+	height: 200px;
+	margin-bottom: 20px;
+}
+#content_left_top1{
+	background-image: url(../images/pxdt.png);
+	height: 53px;
+	margin-bottom: 10px;
+}
+#content_left_top2 ul li:hover{
+	height: 40px;
+	line-height: 40px;
+	background-image: url(../images/menubg.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#content_left_top2 ul li a:hover{
+	color:red;
+	font-weight: bold;
+	text-decoration: none;
+}
+#content_left_top2 ul li {
+	height: 25px;
+	line-height: 25px;
+	padding-left:70px;
+}
+#content_left_content{
+	background-image: url(../images/bg.png);
+	height: 180px;
+}
+#content_left_content1{
+	background-image: url(../images/news.png);
+	height:30px;
+	background-repeat: none;
+	background-position: center;
+	margin-bottom: 10px;
+}
+#content_left_content2 ul li:hover{
+	height: 40px;
+	line-height: 40px;
+	background-image: url(../images/menubg.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#content_left_content2 ul li a:hover{
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+}
+#content_left_content2 ul li{
+	height: 30px;
+	line-height: 30px;
+	padding-left:60px;
+}
+#content_left_bottom{
+	background-image: url(../images/tel.gif);
+	height: 65px;
+	background-repeat: none;
+	margin-top: 20px;
+}
+
+#content_right{
+	width: 750px;
+	float: right;
+}
+#content_right_top{
+	background-image: url(../images/listtitle.png);
+	height: 35px;
+	background-repeat: none;
+	color: red;
+	padding-left: 50px;
+	padding-top: 8px
+}
+#content_right_content ul li{
+	list-style-type: disc;
+	height: 25px;
+	line-height:25px;
+}
+#content_right_content{
+	float: left;
+	margin-left: 20px;
+}
+#time{
+	float: right;
+	height: 25px;
+	line-height: 25px;
+}
+#content_right_bottom ul li{
+	padding-left:10px;
+	padding-top: 3px;
+	margin:2px;
+	width: 20px;
+	height: 20px;
+	float: left;
+	border:1px solid red;
+}
+#content_right_bottom ul li:visited{
+	border:0px;
+}
+#content_right_bottom{
+	width: 800px;
+	margin-left: 450px;
+}
+#content_right_bottom1 ul li{
+	padding-left:1px;
+	padding-top: 3px;
+	text-align: center; 
+	margin:2px;
+	width: 30px;
+	height: 20px;
+	float: left;
+	border:1px solid red;
+}
+#one{
+float: left;}
+
+
+
+
+#footer{
+	float: left;
+	height: 105px;
+	width: 100%;
+	clear: both;
+	background-image: url(../images/foot.gif);
+}
+#footer1 ul li{
+	float: left;
+}
+#footer1 ul{
+	width: 520px;
+	height: 30px;
+	margin:10px auto;
+	background-image: url(../images/line.jpg);
+	background-position:-2em 100%;
+	background-repeat: repeat-x;
+}
+#footer2{
+	width: 400px;
+	height: 40px;
+	margin:0px auto;
+}
+#p1{
+	width: 380px;
+	margin:0px auto;
+}
+#p2{
+	width: 300px;
+	margin:0px auto;
+}
