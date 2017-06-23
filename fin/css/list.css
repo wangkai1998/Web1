@@ -1,0 +1,211 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	text-decoration: underline;
+	color: blue;
+}
+body{
+	background-image: url(../images/bodybg.gif);
+}
+ul li{
+	list-style-type: none;
+}
+#header{
+	padding-top:10px;
+	background-image: url(../images/daobanner2.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin:0px auto;
+}
+#banner{
+	margin:40px 60px;
+}
+#nav{
+	height: 50px;
+	background-image: url(../images/orange.png);
+	margin-top: 30px;
+}
+#nav_body{
+	margin-left: 180px;
+}
+#nav_body ul li{
+	text-align: center;
+	line-height: 50px;
+	width: 80px;
+	height: 50px;
+	float: left;
+}
+#nav_body ul li a:hover{
+	color:orange;
+	font-weight: bold;
+	font-size: 18px;
+}
+#nav_body ul li:hover{
+		background-color:white;
+}
+#nav_search{
+	float: left;
+	margin-left: 100px;
+}
+#form1{
+	width: 140px;
+	height: 20px;
+	float: left;
+	margin-top: 10px;
+}
+#form2{
+	float: left;
+	margin-top: 11px;
+	margin-left: 0px;
+}
+#content{
+	width: 1000px;
+
+	margin:0px auto;
+}
+#content_left{
+	float: left;
+	width: 300px;
+}
+#content_left11{
+	background-image: url(../images/laba.png);
+	background-repeat: no-repeat;
+	width: 300px;
+	height: 50px;
+}
+#content_left11p{
+	color: black;
+	float: right;
+	font-weight: bold;
+	font-size: 18px;
+	margin: 10px 170px 0px 0px;
+}
+#content_left12{
+	background-image: url(../images/listnew.png);
+	height: 300px;
+}
+#content_left12 ul li {
+	width: 200px;
+	margin-left: 100px;
+	margin-top: 15px;
+	height: 30px;
+}
+#content_left12 ul li a:hover{
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+#content_left12 ul li:hover{
+	background-image: url(../images/orange.png);
+}
+#content_left21{
+	background-image: url(../images/tougao.png);
+	background-repeat: no-repeat;
+	width: 300px;
+	height: 50px;
+}
+#content_left21p{
+	color: black;
+	float: right;
+	font-weight: bold;
+	font-size: 18px;
+	margin: 10px 135px 0px 0px;
+}
+#content_left22{
+	background-image: url(../images/paper91.png);
+	width: 300px;
+	height: 300px;
+	padding-top: 20px;
+	background-repeat: no-repeat;
+}
+#content_left22 ul li {
+	width: 200px;
+	margin-left: 80px;
+	margin-top: 15px;
+	height: 30px;
+}
+#youxiang{
+	border:1px solid orange;
+	height:30px;
+	line-height: 30px;
+	text-align: center;
+}
+#content_right{
+	width: 700px;
+	float: right;
+}
+#content_right1{
+	background-image: url(../images/tankelogo.png);
+	background-repeat: no-repeat;
+	width: 700px;
+	height: 50px;
+}
+#content_right1p{
+	height:50px;
+	line-height: 50px;
+	color: black;
+	float: right;
+	font-weight: bold;
+	font-size: 25px;
+	margin: 0px 590px 0px 0px;
+}
+#content_right2{
+	float: left;
+	margin-left: 20px;
+}
+#content_right2 ul li{
+	height: 35px;
+	line-height: 35px;
+	list-style-type: disc;
+}
+#time{
+	float: right;
+	height: 35px;
+	line-height: 35px;
+}
+#content_right_bottom{
+	width: 700px;
+	float:left;
+	margin-left: 120px;
+}
+#content_right_bottom ul li{
+	padding-left:10px;
+	padding-top: 3px;
+	margin:2px;
+	width: 30px;
+	height: 20px;
+	float: left;
+	border:1px solid red;
+}
+#content_right_bottom ul li:visited{
+
+	border:0px;
+}
+#one{
+float: left;}
+#footer{
+	width:100%;
+	float:right;
+	height:100px;
+	background-image: url(../images/orange.png);
+}
+#footer1{
+	width: 300px;
+	height: 30px;
+	margin:20px auto;
+	margin-bottom: 0px;
+	text-align: center;
+}
+#footer2{
+	width: 300px;
+	height: 30px;
+	margin:0px auto;
+	text-align: center;
+}
